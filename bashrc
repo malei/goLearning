@@ -7,6 +7,4 @@ fi
 
 # User specific aliases and functions
 
-export GOROOT=/home/lei/go
-export GOBIN=$GOROOT/bin/
-export PATH=$PATH:$GOBIN
+export PATH=$PATH:/home/lei/go
